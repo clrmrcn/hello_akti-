@@ -1,0 +1,190 @@
+{
+  "entrepôt - Limoges": {
+    "énergie": {
+      "total_value": 314.05,
+      "emissions": [
+        {
+          "id": 1,
+          "description": "mix électrique moyen",
+          "unit": "kgCO2e/kWh",
+          "total_value": 314.05,
+          "value_co2": 314.05,
+          "value_ch4": null,
+          "value_n2o": null,
+          "value_co2b": null,
+          "value_ch4b": null,
+          "activity_datum_id": 1
+        }
+      ]
+    },
+    "transports": {
+      "total_value": 744013.92,
+      "emissions": [
+        {
+          "id": 2,
+          "description": "diesel routier",
+          "unit": "kgCO2e/tonne.km",
+          "total_value": 744000.0,
+          "value_co2": 744000.0,
+          "value_ch4": null,
+          "value_n2o": null,
+          "value_co2b": null,
+          "value_ch4b": null,
+          "activity_datum_id": 2
+        },
+        {
+          "id": 3,
+          "description": "TGV",
+          "unit": "kgCO2e/passager.km",
+          "total_value": 13.92,
+          "value_co2": 13.92,
+          "value_ch4": null,
+          "value_n2o": null,
+          "value_co2b": null,
+          "value_ch4b": null,
+          "activity_datum_id": 3
+        }
+      ]
+    },
+    "achats": {
+      "total_value": 3120.0,
+      "emissions": [
+        {
+          "id": 4,
+          "description": "ordinateur portable",
+          "unit": "kgCO2e/unité",
+          "total_value": 3120.0,
+          "value_co2": 3120.0,
+          "value_ch4": null,
+          "value_n2o": null,
+          "value_co2b": null,
+          "value_ch4b": null,
+          "activity_datum_id": 4
+        }
+      ]
+    },
+    "déchets": {
+      "total_value": 581.98746,
+      "emissions": [
+        {
+          "id": 5,
+          "description": "carton collecté par un prestataire privé",
+          "unit": "kgCO2e/tonne",
+          "total_value": 75.74745999999999,
+          "value_co2": 66.6,
+          "value_ch4": 9.14,
+          "value_n2o": 0.00746,
+          "value_co2b": 340.0,
+          "value_ch4b": 0.0,
+          "activity_datum_id": 5
+        },
+        {
+          "id": 6,
+          "description": "ordures ménagères collectées par un prestataire privé",
+          "unit": "kgCO2e/tonne",
+          "total_value": 506.24,
+          "value_co2": 491.4,
+          "value_ch4": 0.0,
+          "value_n2o": 14.839999999999998,
+          "value_co2b": 621.5999999999999,
+          "value_ch4b": 0.0,
+          "activity_datum_id": 6
+        }
+      ]
+    }
+  },
+  "entrepôt - Poitiers": {
+    "énergie": {
+      "total_value": 171.29999999999998,
+      "emissions": [
+        {
+          "id": 1,
+          "description": "mix électrique moyen",
+          "unit": "kgCO2e/kWh",
+          "total_value": 171.29999999999998,
+          "value_co2": 171.29999999999998,
+          "value_ch4": null,
+          "value_n2o": null,
+          "value_co2b": null,
+          "value_ch4b": null,
+          "activity_datum_id": 7
+        }
+      ]
+    },
+    "transports": {
+      "total_value": 186001.74,
+      "emissions": [
+        {
+          "id": 2,
+          "description": "diesel routier",
+          "unit": "kgCO2e/tonne.km",
+          "total_value": 186000.0,
+          "value_co2": 186000.0,
+          "value_ch4": null,
+          "value_n2o": null,
+          "value_co2b": null,
+          "value_ch4b": null,
+          "activity_datum_id": 8
+        },
+        {
+          "id": 3,
+          "description": "TGV",
+          "unit": "kgCO2e/passager.km",
+          "total_value": 1.74,
+          "value_co2": 1.74,
+          "value_ch4": null,
+          "value_n2o": null,
+          "value_co2b": null,
+          "value_ch4b": null,
+          "activity_datum_id": 9
+        }
+      ]
+    },
+    "achats": {
+      "total_value": 4680.0,
+      "emissions": [
+        {
+          "id": 4,
+          "description": "ordinateur portable",
+          "unit": "kgCO2e/unité",
+          "total_value": 4680.0,
+          "value_co2": 4680.0,
+          "value_ch4": null,
+          "value_n2o": null,
+          "value_co2b": null,
+          "value_ch4b": null,
+          "activity_datum_id": 10
+        }
+      ]
+    },
+    "déchets": {
+      "total_value": 47.522119,
+      "emissions": [
+        {
+          "id": 5,
+          "description": "carton collecté par un prestataire privé",
+          "unit": "kgCO2e/tonne",
+          "total_value": 11.362118999999998,
+          "value_co2": 9.989999999999998,
+          "value_ch4": 1.371,
+          "value_n2o": 0.001119,
+          "value_co2b": 51.0,
+          "value_ch4b": 0.0,
+          "activity_datum_id": 11
+        },
+        {
+          "id": 6,
+          "description": "ordures ménagères collectées par un prestataire privé",
+          "unit": "kgCO2e/tonne",
+          "total_value": 36.160000000000004,
+          "value_co2": 35.1,
+          "value_ch4": 0.0,
+          "value_n2o": 1.06,
+          "value_co2b": 44.400000000000006,
+          "value_ch4b": 0.0,
+          "activity_datum_id": 12
+        }
+      ]
+    }
+  }
+}
